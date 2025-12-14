@@ -8,7 +8,7 @@ namespace School.Doman.Models;
 
 public class Student
 {
-    public Student(string firstName,string lastName,int age,int id)
+    public Student(string firstName,string lastName,int age,int id )
     {
        FirstName = firstName;
        LastName = lastName;
